@@ -4,8 +4,3 @@ I am Gabeta Songoudaha Soro, I am a Senufo from the Ivory Coast and proud. I am 
 
 
 --- In the meantime I try to contribute enough money to buy a camera, to go photograph DIBY the black fetish in my father village in NIOFOUIN. ---
-
-
-### ☕️ Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/gabeta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
