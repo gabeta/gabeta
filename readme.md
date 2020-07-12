@@ -15,7 +15,7 @@ I am experienced Laravel Livewire on a project that I intend to launch as a star
   </a>  
 
   <a href="https://www.linkedin.com/in/gabeta-soro-542409161/">
-    <img src="https://github.com/gabeta/gabeta/blob/master/resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -24,4 +24,22 @@ I am experienced Laravel Livewire on a project that I intend to launch as a star
 ### 🚧 I build with...
 
 <p>
+  <a href="https://php.net">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  </a>  
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.jetbrains.com/fr-fr/idea/">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/jetbrains_intellij.svg" alt="jetbrains" style="vertical-align:top; margin:4px">
+  </a>
 </p>
