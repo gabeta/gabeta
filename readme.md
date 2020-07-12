@@ -11,11 +11,11 @@ I am experienced Laravel Livewire on a project that I intend to launch as a star
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://twitter.com/GabetaSoro">
-    <img src="https://raw.githubusercontent.com/gabeta/gabeta/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/gabeta-soro-542409161/">
-    <img src="https://raw.githubusercontent.com/gabeta/gabeta/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
