@@ -33,6 +33,9 @@ I am experienced Laravel Livewire on a project that I intend to launch as a star
   <a href="https://www.python.org/">
     <img src="https://github.com/gabeta/gabeta/blob/master/resources/python.svg" alt="python" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://laravel.com/">
+    <img src="https://github.com/gabeta/gabeta/blob/master/resources/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://vuejs.org/">
     <img src="https://github.com/gabeta/gabeta/blob/master/resources/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   </a>
